@@ -1,0 +1,9 @@
+# vscode
+.vscode
+
+#v envs
+.venv396
+.venv3122
+
+#files
+dev.zip
