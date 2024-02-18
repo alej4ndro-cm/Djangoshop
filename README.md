@@ -1,4 +1,3 @@
-```markdown
 # Djangoshop
 
 Welcome to Djangoshop, a streamlined e-commerce platform built with Django. Our aim is to deliver a seamless online shopping experience, featuring product browsing, a shopping cart, and secure PayPal transactions. This project is designed to guide you through real-world application development, from coding to deployment, with a focus on using Amazon Web Services (AWS) for storage, database management, and hosting.
